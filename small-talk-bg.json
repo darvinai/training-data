@@ -1,0 +1,273 @@
+{
+  "entity-definitions": [
+    {
+      "name": "SmallTalk",
+      "lookup-strategy": "trait",
+      "data": [
+        {
+          "value": "get-help",
+          "expressions": [
+            "помощ",
+            "искам помощ",
+            "Какво можеш да правиш?",
+            "Можеш ли да ми помогнеш?",
+            "Как работи?",
+            "помогни ми",
+            "помогнете ми",
+            "какво да правя?",
+            "каво да направя?",
+            "what do you know to do?",
+            "помощ, моля",
+            "помогнете, моля",
+            "не знам как"
+            "?"
+          ],
+          "metadata": {
+            "messages": [
+              "аз съм бот и мога да ви помогна с:"
+            ]
+          }
+        },
+        {
+          "value": "reset",
+          "expressions": [
+            "от начало",
+            "отначало",
+            "да започнем от начало",
+            "започни от начало",
+            "рестарт",
+            "може ли да започнем пак?",
+            "да започнем пак",
+            "забрави, да почнем отначало"
+          ],
+          "metadata": {
+            "messages": [
+              "Добре, започваме на чисто."
+            ]
+          }
+        },
+        {
+          "value": "ask-feeling",
+          "expressions": [
+            "Как си?",
+            "What's up mate?",
+            "How is it going?",
+            "How do you feel?",
+            "You're alright?",
+            "How are you buddy?",
+            "How are things going for you?",
+            "whats up?",
+            "'sup mate",
+            "How are you feeling today buddy?",
+            "Are you ok?",
+            "Are you going well?",
+            "Is everything alright with you?",
+            "Are you alright?",
+            "everything good?",
+            "How's life?",
+            "everything alright mate?",
+            "feel good?",
+            "sup",
+            "All good?",
+            "how are you doing Dave?",
+            "wassup",
+            "Whats up my man?",
+            "how are ou?",
+            "wassup bro",
+            "What's your mood today?",
+            "how's your day",
+            "How are you doing?",
+            "how are you, caesar?",
+            "What's up?",
+            "how are you today",
+            "how do you do",
+            "Are you happy?",
+            "How you doin?",
+            "how are you>",
+            "how are you doing Hyparse?",
+            "Good and you?",
+            "Waddup?",
+            "wazzup",
+            "how are yo",
+            "How are you, Oliver?",
+            "how ar eyou?",
+            "fine! How are you?",
+            "what you up to?",
+            "how areyou?"
+          ],
+          "metadata": {
+            "messages": [
+              "I'm good. Thanks!",
+              "Everything is fine!",
+              "I'm alright. Thanks for asking :)",
+              "Pretty well I must say!"
+            ]
+          }
+        },
+        {
+          "value": "get-time",
+          "expressions": [
+            "What time is it?",
+            "I'm gonna need you to tell me the time right now.",
+            "Excuse me sir, do you happen to have the time by any chance?",
+            "You got the hour boy?",
+            "Yo I think I might be late.",
+            "I am incredibly sad that I don't have the time yet .",
+            "I need to know the time like right now .",
+            "What time is it exactly?",
+            "I'm not wearing a watch right now .",
+            "Hey can you tell me the time for Beiruth please?",
+            "What time is it exactly right now in Berlin",
+            "I need the time for Paris .",
+            "what time is it in Tokyo?",
+            "I need to know the time",
+            "what time is it now?",
+            "What is the time zone in New Brookeside?",
+            "tell me the time in London?",
+            "Current time?",
+            "What is the time at home?",
+            "what time is it in France?",
+            "When is the sunset in Hyattmouth?",
+            "what's the date?",
+            "what is the time now",
+            "the time?",
+            "Time?",
+            "Give me the time in Marseille",
+            "What time is on tonight",
+            "what's the next departure for grand blvd?",
+            "What time is it?",
+            "what is today's date?",
+            "What's the timezone of Bagdad?"
+          ],
+          "metadata": {
+            "messages": [
+              "If you look up on your screen you should see the time displayed somewhere."
+            ]
+          }
+        },
+        {
+          "value": "ask-creator",
+          "expressions": [
+            "Who exactly programmed you?",
+            "What made you?",
+            "Who made you",
+            "Who coded you?",
+            "What is the name of the programmer that made you?",
+            "What is the name of your programmer?",
+            "I want to know who made you",
+            "Tell me the name of your maker now .",
+            "Name me the name of your maker",
+            "The sanctity of your being was violated when you were created .",
+            "I would love to know who made you .",
+            "So if you're a bot, then that means that someone had to program you .",
+            "So if you're a robot, that means someone made you .",
+            "Tell me the name of your creator NOW",
+            "I want to speak to your creator .",
+            "Who created you?",
+            "I would like to know the name of your maker",
+            "Tell me the name of your maker",
+            "Who is your maker",
+            "Where exactly did you come from?",
+            "I need you to tell me what or who made you?",
+            "Could you tell me who exactly programmed you?",
+            "Who programmed you?",
+            "Who's your father?",
+            "Please tell me how you were born",
+            "Say your creator's name",
+            "Talk about the one who created you",
+            "Tell me about your creator",
+            "Tell me more about you",
+            "Who created you?",
+            "Who made you?",
+            "Who's your creator?"
+          ],
+          "metadata": {
+            "messages": [
+              "I'm a bot created with Darvin.ai."
+            ]
+          }
+        },
+        {
+          "value": "laugh",
+          "expressions": [
+            "LMFAO",
+            "That's funny !",
+            "hahahah that's hilarious",
+            "haha",
+            "laught",
+            "smh",
+            "LMAO",
+            "arrrrf",
+            "xD",
+            "hahahaha",
+            "LOOL",
+            "lol",
+            ":D"
+          ],
+          "metadata": {
+            "messages": [
+              "I'm a bot created with Darvin.ai."
+            ]
+          }
+        },
+        {
+          "value": "weather",
+          "expressions": [
+            "What is temperature?",
+            "tell me the weater in tel aviv",
+            "whats the temperature?",
+            "do I need a coat?",
+            "Is it snowing?",
+            "Is there sun outside?",
+            "What is the humidity?",
+            "Is it raining?",
+            "how hot is Ponce right now?",
+            "Weather prediction",
+            "is it rainy in Ponce?",
+            "weather in seattle on sunday",
+            "is it cloudy in Guayanilla",
+            "is it sunny in las vegas?",
+            "Get the weather",
+            "how does the sky look like?",
+            "is it cold outside",
+            "What's the temperature in Seattle",
+            "what is the chance of sunshine",
+            "is it going to rain soon?",
+            "Weather Paris",
+            "Do I need to bring an umbrella with me?",
+            "give the forecasts",
+            "Weather jobs what's the weather time",
+            "Is it windy?",
+            "Should I take my sunglasses?",
+            "Can I visit hives in Paris tomorrow morning?",
+            "what is the time in paris",
+            "Is it supposed to rain next Friday",
+            "weather today?",
+            "How hot will it be this weekend?",
+            "I need to know the weather in Gatton",
+            "Should I take a coat for tonight?",
+            "is it cold?",
+            "do i need an umbrella",
+            "What's the temperature right now",
+            "Will it snow tomorrow?",
+            "is it raining today?",
+            "is it cold in texas?",
+            "Is it sunny?",
+            "tell me how is the weather",
+            "What is the temperature",
+            "I want the weather in Paris.",
+            "how is the weather in Paris",
+            "Check the weather",
+            "what's the weather",
+            "/weather"
+          ],
+          "metadata": {
+            "messages": [
+              "We are not here for small talk, aren't we?"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
