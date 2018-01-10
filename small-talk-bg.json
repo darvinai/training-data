@@ -19,7 +19,7 @@
             "what do you know to do?",
             "помощ, моля",
             "помогнете, моля",
-            "не знам как"
+            "не знам как",
             "?"
           ],
           "metadata": {
@@ -50,140 +50,88 @@
           "value": "ask-feeling",
           "expressions": [
             "Как си?",
-            "What's up mate?",
-            "How is it going?",
-            "How do you feel?",
-            "You're alright?",
-            "How are you buddy?",
-            "How are things going for you?",
-            "whats up?",
-            "'sup mate",
-            "How are you feeling today buddy?",
-            "Are you ok?",
-            "Are you going well?",
-            "Is everything alright with you?",
-            "Are you alright?",
-            "everything good?",
-            "How's life?",
-            "everything alright mate?",
-            "feel good?",
-            "sup",
-            "All good?",
-            "how are you doing Dave?",
-            "wassup",
-            "Whats up my man?",
-            "how are ou?",
-            "wassup bro",
-            "What's your mood today?",
-            "how's your day",
-            "How are you doing?",
-            "how are you, caesar?",
-            "What's up?",
-            "how are you today",
-            "how do you do",
-            "Are you happy?",
-            "How you doin?",
-            "how are you>",
-            "how are you doing Hyparse?",
-            "Good and you?",
-            "Waddup?",
-            "wazzup",
-            "how are yo",
-            "How are you, Oliver?",
-            "how ar eyou?",
-            "fine! How are you?",
-            "what you up to?",
-            "how areyou?"
+            "Как се чувстваш?",
+            "Какво става?",
+            "Кво стаа?",
+            "Добре ли си?",
+            "Добре ли сте?",
+            "Как върви?",
+            "ко стаа?",
+            "Как е?",
+            "Как си днес?",
+            "Всичко наред ли е?",
+            "Are you alright?"
           ],
           "metadata": {
             "messages": [
-              "I'm good. Thanks!",
-              "Everything is fine!",
-              "I'm alright. Thanks for asking :)",
-              "Pretty well I must say!"
+              "Добре съм. Благодаря!",
+              "Всичко е наред. Благодаря!"
             ]
           }
         },
         {
           "value": "get-time",
           "expressions": [
-            "What time is it?",
-            "I'm gonna need you to tell me the time right now.",
-            "Excuse me sir, do you happen to have the time by any chance?",
-            "You got the hour boy?",
-            "Yo I think I might be late.",
-            "I am incredibly sad that I don't have the time yet .",
-            "I need to know the time like right now .",
-            "What time is it exactly?",
-            "I'm not wearing a watch right now .",
-            "Hey can you tell me the time for Beiruth please?",
-            "What time is it exactly right now in Berlin",
-            "I need the time for Paris .",
-            "what time is it in Tokyo?",
-            "I need to know the time",
-            "what time is it now?",
-            "What is the time zone in New Brookeside?",
-            "tell me the time in London?",
-            "Current time?",
-            "What is the time at home?",
-            "what time is it in France?",
-            "When is the sunset in Hyattmouth?",
-            "what's the date?",
-            "what is the time now",
-            "the time?",
-            "Time?",
-            "Give me the time in Marseille",
-            "What time is on tonight",
-            "what's the next departure for grand blvd?",
-            "What time is it?",
-            "what is today's date?",
-            "What's the timezone of Bagdad?"
+            "Колко е часа?",
+            "Коя дата сме?",
+            "Коя дата е?",
+            "Кой ден сме днес?",
+            "Кой ден е днес?",
+            "Колко ти е часа?",
+            "Знаеш ли колко е часа?",
+            "Бихте ли ми казали колко е часа?",
+            "Колко часа е в Париж?",
+            "Колко е часът в Москва?",
+            "Би ли ми казал колко е часа?",
+            "Колко е сега?",
+            "Колко часът е сега?",
+            "В коя часова зона си?"
           ],
           "metadata": {
             "messages": [
-              "If you look up on your screen you should see the time displayed somewhere."
+              "Ако огледате екрана си внимателно, най-вероятно някъде пише."
             ]
           }
         },
         {
           "value": "ask-creator",
           "expressions": [
-            "Who exactly programmed you?",
-            "What made you?",
-            "Who made you",
-            "Who coded you?",
-            "What is the name of the programmer that made you?",
-            "What is the name of your programmer?",
-            "I want to know who made you",
-            "Tell me the name of your maker now .",
-            "Name me the name of your maker",
-            "The sanctity of your being was violated when you were created .",
-            "I would love to know who made you .",
-            "So if you're a bot, then that means that someone had to program you .",
-            "So if you're a robot, that means someone made you .",
-            "Tell me the name of your creator NOW",
-            "I want to speak to your creator .",
-            "Who created you?",
-            "I would like to know the name of your maker",
-            "Tell me the name of your maker",
-            "Who is your maker",
-            "Where exactly did you come from?",
-            "I need you to tell me what or who made you?",
-            "Could you tell me who exactly programmed you?",
-            "Who programmed you?",
-            "Who's your father?",
-            "Please tell me how you were born",
-            "Say your creator's name",
-            "Talk about the one who created you",
-            "Tell me about your creator",
-            "Tell me more about you",
-            "Who created you?",
-            "Who made you?",
-            "Who's your creator?"
+            "Кой те е създал?",
+            "Кой те е направил?",
+            "Кой те е програмирал?",
+            "Как се казва програмистът ти?",
+            "Как се казва програмистът, който те е направил?",
+            "Как се казва създателя ти?",
+            "Ако си робот, значи някой те е направил.",
+            "Искам да говоря с този, който те е направил.",
+            "От къде си?",
+            "Бот ли си?",
+            "Човек ли си?",
+            "Какво си?",
+            "Какво е това?",
+            "С кого говоря?",
+            "От къде си?",
+            "Кажи ми нещо за себе си.",
+            "Истински ли си?",
+            "Как се казваш?"
           ],
           "metadata": {
             "messages": [
-              "I'm a bot created with Darvin.ai."
+              "Аз съм робот, създаден с Darvin.ai."
+            ]
+          }
+        },
+        {
+          "value": "age",
+          "expressions": [
+            "На колко си?",
+            "На колко години си?",
+            "На каква възраст си?",
+            "Дете ли си?"
+          ],
+          "metadata": {
+            "messages": [
+              "Аз съм робот. Нямам възраст."
             ]
           }
         },
@@ -191,8 +139,7 @@
           "value": "laugh",
           "expressions": [
             "LMFAO",
-            "That's funny !",
-            "hahahah that's hilarious",
+            "Това е смешно!",
             "haha",
             "laught",
             "smh",
@@ -202,68 +149,61 @@
             "hahahaha",
             "LOOL",
             "lol",
-            ":D"
+            ":D",
+            "хаха",
+            "хахаха",
+            "ха-ха-ха",
+            "ха-ха",
+            "хо-хо",
+            "хохо"
           ],
           "metadata": {
             "messages": [
-              "I'm a bot created with Darvin.ai."
+              "Радвам се."
             ]
           }
         },
         {
-          "value": "weather",
+          "value": "gender",
           "expressions": [
-            "What is temperature?",
-            "tell me the weater in tel aviv",
-            "whats the temperature?",
-            "do I need a coat?",
-            "Is it snowing?",
-            "Is there sun outside?",
-            "What is the humidity?",
-            "Is it raining?",
-            "how hot is Ponce right now?",
-            "Weather prediction",
-            "is it rainy in Ponce?",
-            "weather in seattle on sunday",
-            "is it cloudy in Guayanilla",
-            "is it sunny in las vegas?",
-            "Get the weather",
-            "how does the sky look like?",
-            "is it cold outside",
-            "What's the temperature in Seattle",
-            "what is the chance of sunshine",
-            "is it going to rain soon?",
-            "Weather Paris",
-            "Do I need to bring an umbrella with me?",
-            "give the forecasts",
-            "Weather jobs what's the weather time",
-            "Is it windy?",
-            "Should I take my sunglasses?",
-            "Can I visit hives in Paris tomorrow morning?",
-            "what is the time in paris",
-            "Is it supposed to rain next Friday",
-            "weather today?",
-            "How hot will it be this weekend?",
-            "I need to know the weather in Gatton",
-            "Should I take a coat for tonight?",
-            "is it cold?",
-            "do i need an umbrella",
-            "What's the temperature right now",
-            "Will it snow tomorrow?",
-            "is it raining today?",
-            "is it cold in texas?",
-            "Is it sunny?",
-            "tell me how is the weather",
-            "What is the temperature",
-            "I want the weather in Paris.",
-            "how is the weather in Paris",
-            "Check the weather",
-            "what's the weather",
-            "/weather"
+            "Мъж ли си или жена?",
+            "Какъв пол си?",
+            "Мъж ли си?",
+            "Жена ли си?",
+            "Момче ли си?",
+            "Момиче ли си?"
           ],
           "metadata": {
             "messages": [
-              "We are not here for small talk, aren't we?"
+              "Ти реши..."
+            ]
+          }
+        },
+        {
+          "value": "joke",
+          "expressions": [
+            "Кажи ми виц",
+            "Кажи ми шега",
+            "Можеш ли да се шегуваш?",
+            "Знаеш ли вицове?",
+            "Знаеш ли някой виц?"
+          ],
+          "metadata": {
+            "messages": [
+              "Аз не се шегувам по време на работа."
+            ]
+          }
+        },
+        {
+          "value": "universe",
+          "expressions": [
+            "Какъв е смисълът на живота?",
+            "Какъв е смисълът на вселената?",
+            "Какъв е отговорът на всички въпроси?"
+          ],
+          "metadata": {
+            "messages": [
+              "42, разбира се :)"
             ]
           }
         }
